@@ -8,4 +8,4 @@ I votanti si recano ad un seggio, scelto casualmente, e:
 
 Al termine dell’identificazione, l’avente diritto verifica che una delle **M cabine elettorali** presenti all’interno del seggio sia libera. In caso positivo vota e va via, altrimenti resta in attesa. Le categorie di votanti hanno priorità crescenti secondo il ruolo ricoperto. Pertanto, i *dirigenti* potranno accedere alla cabina elettorale prima dei *dipendenti*, e questi ultimi prima dei *collaboratori*. 
 
-Si modelli lo scenario descritto mediante thread in linguaggio Java usando il costrutto monitor. Si descriva la sincronizzazione tra thread, discutendo anche se la soluzione proposta può presentare rinvio indefinito o deadlock. In tal caso, si propongano delle soluzioni implemcntative per evitare i due fenomeni.
+Si modelli lo scenario descritto mediante thread in linguaggio Java usando il costrutto **monitor**. Si descriva la sincronizzazione tra thread, discutendo anche se la soluzione proposta può presentare rinvio indefinito o deadlock. In tal caso, si propongano delle soluzioni implemcntative per evitare i due fenomeni.
